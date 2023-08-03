@@ -1,4 +1,6 @@
-# vuejsdemo
+# Rollbar VueJS Demo
+
+This demo projects shows you how to setup and run Rollbar Vue SDK in a a new VueJS Template Project.
 
 ## Project setup
 ```
